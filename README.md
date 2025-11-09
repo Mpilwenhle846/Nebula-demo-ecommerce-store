@@ -1,4 +1,6 @@
-<img width="1339" height="649" alt="image" src="https://github.com/user-attachments/assets/409ea832-6ef1-48b0-b762-886fcedcc6e6" />
+<img width="1334" height="637" alt="image" src="https://github.com/user-attachments/assets/e378a8d0-cbf8-4488-a009-66c130bc995a" />
+
+<img width="1341" height="1017" alt="image" src="https://github.com/user-attachments/assets/605d9875-47b4-4e4f-b900-562b196ba8af" />
 
 
 Nebula — Futuristic E-Commerce Demo
