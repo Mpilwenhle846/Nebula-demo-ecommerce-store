@@ -1,6 +1,10 @@
-<img width="1334" height="637" alt="image" src="https://github.com/user-attachments/assets/e378a8d0-cbf8-4488-a009-66c130bc995a" />
+![Hero Section]<img width="1334" height="637" alt="image" src="https://github.com/user-attachments/assets/e378a8d0-cbf8-4488-a009-66c130bc995a" />
 
-<img width="1341" height="1017" alt="image" src="https://github.com/user-attachments/assets/605d9875-47b4-4e4f-b900-562b196ba8af" />
+![Product section]<img width="1341" height="1017" alt="image" src="https://github.com/user-attachments/assets/605d9875-47b4-4e4f-b900-562b196ba8af" />
+
+![Shop by Category]<img width="1336" height="817" alt="image" src="https://github.com/user-attachments/assets/549c7d1c-ed05-4ce3-bf0c-71c002d10184" />
+
+![about section]<img width="1339" height="1266" alt="image" src="https://github.com/user-attachments/assets/537b7347-ac3e-4969-a7c3-398ffe70635f" />
 
 
 Nebula — Futuristic E-Commerce Demo
